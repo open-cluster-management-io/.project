@@ -8,8 +8,29 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
+          - amrcoder
+          - augustrh
+          - bhperry
+          - clyang82
           - deads2k
+          - dongbeiqing
+          - elgnay
+          - haowells
+          - haoqing0110
+          - jaswalkiranavtar
+          - jeffw17
           - jnpacker
+          - mikeshng
+          - morvencao
           - qiujian16
+          - ramekris3163
+          - skeeey
+          - suvaanshkumar
+          - tamalsaha
+          - TylerGillson
+          - xuezhaojun
+          - yanmxa
+          - zhujian7
+          - zhiweiyin318
       - name: "reviewers"
         members: []
