@@ -9,7 +9,9 @@ name: "Open Cluster Management"
 description: "A lightweight, open standard for multi-cluster Kubernetes management built on a hub-spoke architecture."
 type: "project"
 project_lead: "mikeshng"
-cncf_slack_channel: "#open-cluster-mgmt"
+slack_channels:
+  - name: "#open-cluster-mgmt"
+    primary: true
 
 maturity_log:
   - phase: "sandbox"
