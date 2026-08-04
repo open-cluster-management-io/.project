@@ -1,17 +1,17 @@
 # .project metadata for Open Cluster Management
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Set cncf_slack_channel
 # TODO: Add package_managers if distributed via registries
 
 schema_version: "1.0.0"
 slug: "open-cluster-management"
 name: "Open Cluster Management"
-description: "Make working with many Kubernetes clusters super easy regardless of where they are deployed"
+description: "A lightweight, open standard for multi-cluster Kubernetes management built on a hub-spoke architecture."
 type: "project"
-project_lead: "deads2k" # TODO: AUTO-DETECTED — please verify
-# TODO: Set CNCF Slack channel
-# cncf_slack_channel: "#open-cluster-management"
+project_lead: "mikeshng"
+slack_channels:
+  - name: "#open-cluster-mgmt"
+    primary: true
 
 maturity_log:
   - phase: "sandbox"
