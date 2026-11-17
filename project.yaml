@@ -23,7 +23,7 @@ repositories:
 
 website: "https://open-cluster-management.io/"
 
-artwork: "https://landscape.cncf.io/logos/open-cluster-management.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/open-cluster-management"
 
 adopters:
   path: "https://github.com/open-cluster-management-io/ocm/blob/main/ADOPTERS.md"
